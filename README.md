@@ -1,9 +1,10 @@
 #  Welcome to Joseph's GitHub! 👋
 
-
+ <br />
+ 
 <br />
 
-🌱 안녕하세요. 이과라기엔 감수성이 풍부하고, T(MBTI)라기엔 공감을 잘하는 개발자 안요셉입니다. 🌱
+ 안녕하세요. 이과라기엔 감수성이 풍부하고, T(MBTI)라기엔 공감을 잘하는 개발자 안요셉입니다. 
 <br />
 
  저는 JavaScript와 데이터베이스(MySQL) 중점으로 코딩공부를 하고있습니다.
@@ -18,10 +19,29 @@
 - 현재는 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 활동중입니다.
 <br />
 
-<h2>My skills⚡
+<h3>
+
+ 
+ 📧 Email: <a href="ahnyo3@naver.com">ahnyo3@naver.com
+ <br />
   <br />
-  <br /><img src="https://img.shields.io/static/v1?label=JavaScript&message=Icon&color=yellow&logo=javascript&logoColor=white&style=flat" alt="JavaScript Icon">
-  <img src="https://img.shields.io/static/v1?label=MySQL&message=Icon&color=blue&logo=mysql&logoColor=white&style=flat" alt="MySQL Icon">
+ 
+ 
+<h3>📜 Blog: https://dding9code.tistory.com
+ <br />
+ 
+ 
+  <br /> <br />
+ 
+ 
+ <br />
+<h2> 🔨 skill
+  <br />
+ 
+  <br /><img src="https://img.shields.io/static/v1?label=JavaScript&message=java&color=yellow&logo=javascript&logoColor=white&style=flat" alt="JavaScript">
+  <br />
+ 
+  <img src="https://img.shields.io/static/v1?label=MySQL&message=DB&color=blue&logo=mysql&logoColor=white&style=flat" alt="MySQL">
 <!--
 **YosepAhn/YosepAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

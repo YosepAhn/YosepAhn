@@ -2,7 +2,7 @@
 
 
 
-안녕하세요  이과라기엔 감수성이 풍부하고, T(MBTI)라기엔 공감을 잘하는 미래의 개발자 새싹 안요셉입니다.🌱
+안녕하세요  이과라기엔 감수성이 풍부하고, T(MBTI)라기엔 공감을 잘하는 미래의 개발자 안요셉입니다.🌱
 
 저는 지금 JavaScript와 데이터베이스(MySQL), 알고리즘을 중점으로 코딩공부를 하고있습니다.
 
@@ -10,7 +10,9 @@
 
 현재는 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 활동중입니다.
 
-
+<br />
+<h2> My skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C&color=%23FFCE5A)
 <!--
 **YosepAhn/YosepAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +25,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...dfdf
 -->

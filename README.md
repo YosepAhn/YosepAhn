@@ -1,6 +1,4 @@
-#  Welcome to Joseph's GitHub! 👋
-
- <br />
+# About Me
  
 <br />
 

@@ -25,7 +25,7 @@
   <br />
  
  
-<h3>📜 Blog: https://dding9code.tistory.com
+<h3>📜 Blog: https://blog.naver.com/ahnyo3
  <br />
  
  

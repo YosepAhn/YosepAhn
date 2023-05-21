@@ -8,10 +8,10 @@
  저는 JavaScript와 데이터베이스(MySQL) 중점으로 코딩공부를 하고있습니다.
 <br />
 
- 현재 완성한 Project는 PuzzleGame_Login_Project가 있습니다. 
+앞으로 더 많은 분야를 탐구하며, 내일은 오늘을 뛰어넘는 성장을 이룰 것입니다 !
 <br />
 
- 앞으로 더 많은 분야를 탐구하며, 내일은 오늘을 뛰어넘는 성장을 이룰 것입니다 !
+ 완성한 Project는 PuzzleGame_Login_Project가 있습니다.
 <br />
 
 - 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 활동중입니다.

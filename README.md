@@ -16,41 +16,30 @@
     </div>
     <br />
 
- 안녕하세요. ISTP 치고는 공감적이고 발랄하고 이과치곤 감수성이 풍부한 개발자 안요셉입니다.
+ 안녕하세요. ISTP 이지만 공감적이고 이과이지만 감수성이 풍부한 개발자 안요셉입니다.
 <br />
 
- 저는 JavaScript와 데이터베이스(MySQL) 중점으로 코딩공부를 하고있습니다.
+ 저는 프론트엔드 개발자가 되기위해 웹프로그래밍 HTML,CSS3,JAVA를 중점으로 공부를 하고있습니다.
 <br />
 
 앞으로 더 많은 분야를 탐구하며, 내일은 오늘을 뛰어넘는 성장을 이룰 것입니다 !
 <br />
 
- 완성한 Project는 PuzzleGame_Login_Project가 있습니다.
-<br />
-
-- 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 활동중입니다.
+- 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 연구실 회장으로 활동중입니다.
 <br />
 
 <h3>
  <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:ahnyo323@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahnyo323@gmail.com"> </a>
-         <a href=https://instagram.com/ahnyo?igshid=NGVhN2U2NjQ0Yg==> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https:https://www.instagram.com/ahn__yo/> </a>
+   <div align= "center"> <a href=mailto:ahnyo323@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahnyo323@gmail.com"> </a>
+         <a href=https://www.instagram.com/ahn__yo/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/ahn__yo/"> </a>
          <a href=https://blog.naver.com/ahnyo3> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/ahnyo3"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYosepAhn%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-    
-
- 
-
- 
  
   <br />
- 
- 
- 
  
   <br /><img src="https://img.shields.io/static/v1?label=JavaScript&message=java&color=yellow&logo=javascript&logoColor=white&style=flat" alt="JavaScript">
   <img src="https://img.shields.io/static/v1?label=MySQL&message=DB&color=blue&logo=mysql&logoColor=white&style=flat" alt="MySQL">

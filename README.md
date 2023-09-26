@@ -1,18 +1,19 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:07640d,100:d3dece&height=120&text=Frontend%20dev&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
+<br />
    
     
- <style aling="center">안녕하세요. ISTP 이지만 공감적이고 이과이지만 감수성이 풍부한 개발자 안요셉입니다.
+안녕하세요. ISTP 이지만 공감적이고 이과이지만 감수성이 풍부한 개발자 안요셉입니다.
 <br />
 
-  <h3 aling="center">저는 프론트엔드 개발자가 되기위해 웹프로그래밍 HTML,CSS3,JAVA를 중점으로 공부를 하고있습니다.
+저는 프론트엔드 개발자가 되기위해 웹프로그래밍 HTML,CSS3,JAVA를 중점으로 공부를 하고있습니다.
 <br />
 
- <h3 aling="center">앞으로 더 많은 분야를 탐구하며, 내일은 오늘을 뛰어넘는 성장을 이룰 것입니다 !
+앞으로 더 많은 분야를 탐구하며, 내일은 오늘을 뛰어넘는 성장을 이룰 것입니다 !
 <br />
 
- <h3 aling="center">- 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 연구실 회장으로 활동중입니다.
+- 순천향대학교 의료IT공학과를 재학중이며 운영체제(OS)연구실에서 연구실 회장으로 활동중입니다.
 <br />
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

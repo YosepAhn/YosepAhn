@@ -3,7 +3,7 @@
 </div>
    
     
- <h3 aling="center">안녕하세요. ISTP 이지만 공감적이고 이과이지만 감수성이 풍부한 개발자 안요셉입니다.
+ <style aling="center">안녕하세요. ISTP 이지만 공감적이고 이과이지만 감수성이 풍부한 개발자 안요셉입니다.
 <br />
 
   <h3 aling="center">저는 프론트엔드 개발자가 되기위해 웹프로그래밍 HTML,CSS3,JAVA를 중점으로 공부를 하고있습니다.

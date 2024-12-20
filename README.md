@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff9e00,100:34a853&height=120&text=Frontend%20Dev&animation=fadeIn&fontColor=2e2e2e&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0077b6,100:00b4d8&height=120&text=Frontend%20Dev&animation=fadeIn&fontColor=ff6f61&fontSize=60" />
 </div>
+
 
 <div align="center">
   <h3 style="font-family: 'Arial', sans-serif; font-weight: 400; color: #4f5b62;">안녕하세요, 프론트엔드 개발자 안요셉입니다. 👨‍💻</h3>

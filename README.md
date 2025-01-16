@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3 style="font-family: 'Arial', sans-serif; font-weight: 400; color: #4f5b62;">안녕하세요, 프론트엔드 개발자 안요셉입니다. 👨‍💻</h3>
-  <p style="font-family: 'Arial', sans-serif; font-weight: 300; color: #5c6b74;">저는 웹 개발하는 순천향대학교 의료IT공학과 학생입니다. HTML, CSS, JavaScript를 활용해 아름답고 효율적인 웹사이트를 만드는 것을 목표로 공부하고 있습니다.</p> 
+  <p style="font-family: 'Arial', sans-serif; font-weight: 300; color: #5c6b74;">HTML, CSS, JavaScript를 활용해 아름답고 효율적인 웹사이트를 만드는 것을 목표로 공부하고 있습니다.</p> 
   <p style="font-family: 'Arial', sans-serif; font-weight: 300; color: #5c6b74;">또한, 백엔드 개발에도 관심을 가지고 시스템 동작 방식을 깊이 이해하고 있습니다.</p>
   <p style="font-family: 'Arial', sans-serif; font-weight: 300; color: #5c6b74;">운영체제(OS) 연구실에서 연구실 회장으로 활동 했으며, 더 나은 내일을 위해 열심히 성장하고 있습니다.</p>
 </div>
